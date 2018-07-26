@@ -1,2 +1,6 @@
 # TicTacToeAI-with-React #
-### To Run: ```npm start``` ###
+### To Run: 
+```
+npm install 
+npm start`
+
