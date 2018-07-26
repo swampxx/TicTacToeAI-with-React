@@ -2,5 +2,5 @@
 ### To Run: 
 ```
 npm install 
-npm start`
+npm start
 
