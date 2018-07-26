@@ -1,1 +1,2 @@
-# TicTacToeAI-with-React
+# TicTacToeAI-with-React #
+### To Run: ```npm start``` ###
